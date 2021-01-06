@@ -1,0 +1,523 @@
+body {
+    font: 16px/28px arial, sans-serif;
+    background-image: url(gambar/rajaampat1.jpg);
+}
+.kotak1 {
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(219, 219, 219);
+}
+.header{
+    background-image: url(gambar/raja_ampat1.jpg);
+    background-position: center;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: 1000px 400px;
+    border-bottom: 3px solid rgb(151, 151, 151);
+}
+.header ul{
+    background-color: rgba(0, 0, 0, 0.507);
+    text-align: right;
+}
+.header ul li {
+    display: inline-block;
+    margin-right: 20px; 
+}
+.header a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+}
+.header a:hover {
+    color:red;
+}
+.header h1 {
+    background-color: rgba(0, 0, 0, 0.24);
+    color: rgb(255, 251, 16);
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 150px; 
+}
+.header p {
+    background-color: rgba(0, 0, 0, 0.24);
+    color: white;
+    display: inline-block;
+    margin-left: 30px;
+}
+.header h4 {
+    background-color: black;
+    color: white;
+    padding-left: 30px;
+    margin-top: -3px;
+}
+.header h5 {
+    background-color: rgb(151, 151, 151);
+    text-align: center;
+    margin : auto;
+}
+
+
+
+.kotak2 {
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+}
+.kotak2 .sauwandarek {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak2 .sauwandarek img {
+    height: 100px;
+    width: 150px;
+}
+.kotak2 .sauwandarek h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak2 .sauwandarek p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak2 .pasir {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak2 .pasir img {
+    height: 100px;
+    width: 150px;
+}
+.kotak2 .pasir h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak2 .pasir p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak2 .misool {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);;
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak2 .misool img {
+    height: 100px;
+    width: 150px;
+}
+.kotak2 .misool h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak2 .misool p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak2 .arborek {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak2 .arborek img {
+    height: 100px;
+    width: 150px;
+}
+.kotak2 .arborek h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak2 .arborek p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
+.kotak3 {
+    width: 800px;
+    margin: auto;
+    margin-top: 40px;
+}
+.kotak3 .starlagoon {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak3 .starlagoon img {
+    height: 100px;
+    width: 150px;
+}
+.kotak3 .starlagoon h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak3 .starlagoon p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak3 .batanta {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak3 .batanta img {
+    height: 100px;
+    width: 150px;
+}
+.kotak3 .batanta h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak3 .batanta p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak3 .batu {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);;
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak3 .batu img {
+    height: 100px;
+    width: 150px;
+}
+.kotak3 .batu h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak3 .batu p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+.kotak3 .piaynemo {
+    height: 250px;
+    width: 150px;
+    background-color: rgb(29, 30, 46);
+    background-size: 300px;
+    display: inline-block;
+    margin-left: 40px;
+    border-bottom: 1px solid grey;
+}
+.kotak3 .piaynemo img {
+    height: 100px;
+    width: 150px;
+}
+.kotak3 .piaynemo h1 {
+    text-align: center;
+    font-size: 16px;
+}
+.kotak3 .piaynemo p {
+    font-size: 12px;
+    text-align: center;
+}
+
+
+
+
+.kotak2 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.kotak2 a:hover {
+    color: rgb(255, 0, 0);
+}
+
+
+.kotak2 .s {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/sauwandarek2.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak2 .s h2 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak2 .s h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak2 .s p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak2 .p {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/pasirtimbul4.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak2 .p h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak2 .p h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak2 .p p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak2 .m {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/misool5.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak2 .m h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak2 .m h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak2 .m p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak2 .ar {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/arborek5.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak2 .ar h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak2 .ar h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak2 .ar p {
+    margin-left: 200px;
+    color: black;
+}
+
+
+.kotak3 a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.kotak3 a:hover {
+    color: rgb(255, 0, 0);
+}
+
+
+.kotak3 .st {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/starlagoon.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak3 .st h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak3 .st h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak3 .st p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak3 .bat {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/airterjunbatanta.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak3 .bat h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak3 .bat h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak3 .bat p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak3 .pen {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/batupensil.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak3 .pen h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak3 .pen h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak3 .pen p {
+    margin-left: 200px;
+    color: black;
+}
+
+.kotak3 .piay {
+    height: 100px;
+    width: 800px;
+    background-image: url(gambar/piaynemo.jpg);
+    background-size: 200px 100px;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.kotak3 .piay h2 {
+    margin-left: 200px;
+    color: black;
+}
+.kotak3 .piay h3 {
+    margin-left: 200px;
+    color: black;
+    text-align: center;
+}
+.kotak3 .piay p {
+    margin-left: 200px;
+    color: black;
+}
+
+
+.footer {
+    background-color: rgb(19, 18, 32);
+
+}
+.footer h4 {
+    color: white;
+    margin-left: 300px;
+}
+.footer .kaki {
+    color: white;
+    font-size: 12px;
+    margin-left: 300px;
+}
+.footer  .copy{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    border-top: 1px solid rgba(255, 255, 255, 0.699);
+}
+
+
+
+.header2{
+    background-color:  rgb(133, 151, 172);
+    height: 200px;
+}
+.header2 ul{
+    background-color: rgba(0, 0, 0, 0.459);
+    text-align: right;
+}
+.header2 ul li {
+    display: inline-block;
+    margin-right: 20px; 
+}
+.header2 a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-left: 10px;
+}
+.header2 a:hover {
+    color:red;
+}
+
+.kotak2 .gbr img{
+    float: right;
+    margin-top: -50px;
+    height: 200px;
+    width: 300px;
+}
+.kotak2 .komen h1{
+    width: 300px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    display: inline-block;
+    padding-left: 20px;
+    
+}
+.kotak2 .komen h3{
+    width: 500px;
+    background-color: rgb(133, 151, 172);
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+    font-size: 12px;
+    padding-left: 20px;
+}
